@@ -38,4 +38,5 @@ Print with the side going into the homepod facing upwards and print with support
 
 Jailbreaking your Homepod is not supported, and these design files were made from reverse engineering. While they should not cause physical damage to your Homepod assuming they are soldered correctly, you are ultimately responsible for any damage you cause.
 
-Note that no IPSWs are available for the Homepod, and if the Jailbreak fails you will be stuck with a $250 paperweight. Proceed with caution.
+Note that if the jailbreak fails you could brick your HomePod. Proceed with caution.
+If this occurs then you can try restoring it. [Instructions](https://github.com/UnbendableStraw/homepod-restore)
